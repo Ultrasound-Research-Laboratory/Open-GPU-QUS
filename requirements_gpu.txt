@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pyside6
+
+# Install PyTorch CUDA separately via the official index-url (see README).
+torch
+torchvision
