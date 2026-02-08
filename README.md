@@ -8,6 +8,17 @@ execution.
 
 ---
 
+## Citation
+
+This code implements the methods described in the following paper:
+
+Mingrui Liu, Michael L. Oelze. An open-source GPU-based real-time quantitative ultrasound toolbox. TechRxiv. February 06, 2026.
+DOI: 10.36227/techrxiv.177042026.69094323/v1
+
+If you use or adapt this code, please cite the above work.
+
+---
+
 ## Included Applications
 
 ### 1) Attenuation Imaging (SLD)
